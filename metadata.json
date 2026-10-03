@@ -1,0 +1,6 @@
+{
+  "name": "OnlyProfessional Matrimony",
+  "description": "India's trusted verified matrimonial network for accomplished professionals with 4-pillar verification, 36 Guna Vedic matching, admin command center, and mobile application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
